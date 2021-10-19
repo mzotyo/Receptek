@@ -35,3 +35,5 @@ Visszatesszük a lerber sülni még 10-15 percet, amíg aranybarnára nem pirul.
 Leszűrjük a hús levét. Odatesszük főni és addig főzzük, amíg felére nem csökken a mennyisége.
 
 Hozzáadjuk a tejszínt, összekeverjük és odatesszük főni. Lehúzzuk a hőmérsékletet és hagyjuk még főni 20 percet vagy egészen a kívánt állag eléréséig.
+
+**Forrás:** [https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy](https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy)
