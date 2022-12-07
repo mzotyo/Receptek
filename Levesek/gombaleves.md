@@ -1,4 +1,5 @@
 # Gombaleves
+<span style="color:red">Nem paleo ketogén étel!</span>
 
 ## Hozzávalók
 - disznózsír 1 ek
