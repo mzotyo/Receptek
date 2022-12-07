@@ -1,4 +1,4 @@
-# Lerben sült disznó <i style="color:gray;font-size:0.6em"><br>~ lassan sütve ~</i>
+# Lerben sült disznó (lassan sütve)
 
 ## Hozzávalók
 - Nyakaskaraj: 1 kg
@@ -15,4 +15,4 @@ keresztül sütjük.
 és felére csökkentjük. Hűtőben tárolva megkocsonyásodik
 - A húst szeletelve hollandi mártás öntettel a tetején tálaljuk.
 
-**Forrás:** [https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy](https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy) - <i style="color:gray">(adaptálva paleó ketogén étrendhez)</i>
+**Forrás:** [https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy](https://www.dietdoctor.com/recipes/slow-cooked-keto-pork-roast-gravy) - *(adaptálva paleó ketogén étrendhez)*
