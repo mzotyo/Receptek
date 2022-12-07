@@ -1,4 +1,5 @@
 # Csülkös bableves kuktában
+<span style="color:red">Nem paleo ketogén étel!</span>
 
 ## Hozzávalók
 - Szemes paszuly: 30-50 dkg
